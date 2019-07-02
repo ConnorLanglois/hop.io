@@ -1,4 +1,5 @@
 # Hop.io
+
 A simple platformer with the goal to get the highest score.
 
 ## Getting Started
