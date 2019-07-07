@@ -18,9 +18,9 @@ Clone the repo.
 
 Open the index html file:
 
-```
-hop.io.html
-```
+	```
+	src/hop.io.html
+	```
 
 ## Deployment
 
